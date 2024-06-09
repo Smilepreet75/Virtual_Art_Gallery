@@ -45,17 +45,23 @@ artits : store the info of artist id: Integer, primary key, auto-increment fulln
 
 artwork: store artwork id: Integer, primary key, auto-increment category_id: int title: string description: string price: number discount: number artist_id: int photo: file
 
-Screenshot (225)
+![image](https://github.com/Smilepreet75/Virtual_Art_Gallery/assets/146861547/202074e7-3848-4e95-a8aa-55116c3b4671)
 
-Screenshot (226)
 
-![Screenshot (227)](https://github.com/Smilepreet75/VirtualArtGallery/assets/146861547/4837e21c-6d3a-47fd-a1f6-23a7ebc30cdc
+![image](https://github.com/Smilepreet75/Virtual_Art_Gallery/assets/146861547/792aad3b-91d8-411c-8ce1-2459e9f499a5)
 
-Screenshot (228)
 
-Screenshot (229)
+![image](https://github.com/Smilepreet75/Virtual_Art_Gallery/assets/146861547/74405dce-c6a2-4ae1-aaf8-e89482f5c852)
 
-Screenshot (230)
+
+![image](https://github.com/Smilepreet75/Virtual_Art_Gallery/assets/146861547/b6de61b1-2fa9-43f3-9f10-0f7727865080)
+
+
+![image](https://github.com/Smilepreet75/Virtual_Art_Gallery/assets/146861547/15eacad8-989d-4f33-9f60-9b071c217de9)
+
+
+![image](https://github.com/Smilepreet75/Virtual_Art_Gallery/assets/146861547/6262f1eb-e81f-4deb-92dd-861248b5648a)
+
 
 ![image](https://github.com/Smilepreet75/Virtual_Art_Gallery/assets/146861547/24c9ff03-88c4-4bae-9d2e-58c74c96de13)
 
